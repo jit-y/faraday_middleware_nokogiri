@@ -1,5 +1,2 @@
-require "faraday_nokogiri/version"
-
-module FaradayNokogiri
-  # Your code goes here...
-end
+require 'faraday_nokogiri/version'
+require 'faraday/response/nokogiri'
